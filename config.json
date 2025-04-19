@@ -1,0 +1,13 @@
+{
+    "max_token": 5000,
+    "llm_model": "gpt-4o-mini",
+    "metrics_path": "C:\\UofT\\Fall 3\\ECE1786\\Project\\Dataset\\Test\\20240124Metrics\\Latency\\pod_level_data_cpu_usage.npy",
+    "log_path": "C:\\UofT\\Fall 3\\ECE1786\\Project\\Dataset\\Test\\20240124\\pod\\",
+    "metrics_plot_path": "C:\\UofT\\Fall 3\\ECE1786\\Project\\Dataset\\Test\\rca-with-llm\\processed_data\\metrics_pictures",
+    "log_plot_path": "C:\\UofT\\Fall 3\\ECE1786\\Project\\Dataset\\Test\\rca-with-llm\\processed_data\\log_plots",
+    "log_summary_path": "C:\\UofT\\Fall 3\\ECE1786\\Project\\Dataset\\Test\\rca-with-llm\\processed_data\\ultimate_summarization.csv",
+    "bench_mark_run": false,
+    "metrics_individual_analysis_file": "C:\\UofT\\Fall 3\\ECE1786\\Project\\Dataset\\Test\\rca-with-llm\\processed_data\\metric_summary_output.json",
+    "likely_hypo_path": "C:\\UofT\\Fall 3\\ECE1786\\Project\\Dataset\\Test\\rca-with-llm\\processed_data\\likely_hypotheses\\likely_hypothesis.txt"
+
+}
